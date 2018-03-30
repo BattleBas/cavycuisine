@@ -1,6 +1,6 @@
 # Cavy Cuisine - App for Google Assistant
 
-![Amazing Guinea Pig Logo](https://raw.githubusercontent.com/BattleBas/kivy-vscode/master/logo/small_square_logo.PNG "Amazing Guinea Pig Logo")
+![Amazing Guinea Pig Logo](https://raw.githubusercontent.com/BattleBas/cavycuisine/master/logo/small_square_logo.png "Amazing Guinea Pig Logo")
 
 ## Description
 
