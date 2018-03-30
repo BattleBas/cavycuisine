@@ -1,0 +1,10 @@
+Completed features:
+* Ask for a fun guinea pig fact
+* Ask what guinea pigs can eat and how often
+
+ToDo Features:
+* Log what has been fed to the guinea pig
+    - Retain data max one month
+    - Blocking: Creating own OAuth 2.0 server
+* Play happy/sad/angry guinea pig noises
+    - Blocking: Finding good quality audio
